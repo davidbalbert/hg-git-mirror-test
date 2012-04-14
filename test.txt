@@ -6,3 +6,4 @@ I now have pretty output
 lalalalala
 bar
 baz
+the moment of truth
